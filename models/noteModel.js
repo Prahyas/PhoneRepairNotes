@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 const AutoIncrement = require("mongoose-sequence")(mongoose);
 
+// data structure for Notes model
 const noteSchema = mongoose.Schema(
   {
     user: {

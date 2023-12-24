@@ -1,3 +1,4 @@
+// checks if thr urls matches for cors policy
 const allowedOrigins = require("./allowedOrigins");
 
 const corsOptions = {

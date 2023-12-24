@@ -15,16 +15,19 @@ connectDB();
 
 app.use(logger);
 
+// handles cors policy
 app.use(cors(corsOptions));
-
-app.use(express.json()); // Enable JSON request body parsing
 
 app.use(cookieParser());
 
-app.use(express.static(path.join(__dirname, "/public")));
+// Enables JSON request body parsing
+app.use(express.json());
 
+// to respond static files
+app.use(express.static(path.join(__dirname, "/public")));
 app.use("/", require("./routes/rootRoutes"));
 
+// handles unknown routes
 app.all("*", (req, res) => {
   res.status(404);
   if (req.accepts("html")) {
@@ -38,6 +41,7 @@ app.all("*", (req, res) => {
 
 app.use(errorLogger);
 
+//starts the server after data connection is successful
 mongoose.connection.once("open", () => {
   console.log("Database connected!!!");
   app.listen(process.env.PORT, () => {
@@ -45,6 +49,7 @@ mongoose.connection.once("open", () => {
   });
 });
 
+// logs any error when database fails to connect
 mongoose.connection.on("error", (error) => {
   console.log(error);
   logEvents(`Code no:${error.code}\t ${error.codeName}`, "dbErrorDetails.log");
