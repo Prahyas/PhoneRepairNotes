@@ -27,6 +27,9 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, "/public")));
 app.use("/", require("./routes/rootRoutes"));
 
+// handles all the routes
+app.use("/users", require("./routes/userRoutes"));
+
 // handles unknown routes
 app.all("*", (req, res) => {
   res.status(404);
@@ -41,7 +44,7 @@ app.all("*", (req, res) => {
 
 app.use(errorLogger);
 
-//starts the server after data connection is successful
+//starts the server after database connection is successful
 mongoose.connection.once("open", () => {
   console.log("Database connected!!!");
   app.listen(process.env.PORT, () => {

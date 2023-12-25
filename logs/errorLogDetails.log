@@ -2,3 +2,10 @@ Sun Dec 24 2023 11:56:30 GMT-0600 (Central Standard Time)	72b11e00-69dd-49b4-82a
 Sun Dec 24 2023 11:56:30 GMT-0600 (Central Standard Time)	a3d26bd4-f999-430b-b5b9-fa558f2ed22b	Error	Not alowed by CORS>	GET	/
 Sun Dec 24 2023 11:57:04 GMT-0600 (Central Standard Time)	694ec3c2-07bc-437e-8320-2015b2d976ed	Error	Not alowed by CORS>	OPTIONS	/
 Sun Dec 24 2023 11:57:04 GMT-0600 (Central Standard Time)	4654eee6-7af5-41dd-83a9-c957547ee04a	Error	Not alowed by CORS>	GET	/
+Sun Dec 24 2023 17:26:07 GMT-0600 (Central Standard Time)	9424f888-420a-466d-867b-1500b5f2e368	ValidationError	User validation failed: password: Path `password` is required., username: Path `username` is required.	POST	/users
+Sun Dec 24 2023 17:26:45 GMT-0600 (Central Standard Time)	6da1c8e0-a773-433f-b0dc-b52e2487b7c5	ValidationError	User validation failed: password: Path `password` is required.	POST	/users
+Sun Dec 24 2023 17:26:52 GMT-0600 (Central Standard Time)	bd3aa3eb-88e9-43ad-a790-a7555d81b881	ValidationError	User validation failed: password: Path `password` is required.	POST	/users
+Sun Dec 24 2023 17:28:37 GMT-0600 (Central Standard Time)	5c928fb5-a836-4d8c-beb4-020f362e2cd1	ValidationError	User validation failed: password: Path `password` is required.	POST	/users
+Sun Dec 24 2023 17:31:11 GMT-0600 (Central Standard Time)	99e14760-8719-46e5-933f-32c91bc5ac01	ValidationError	User validation failed: password: Path `password` is required.	POST	/users
+Sun Dec 24 2023 17:31:30 GMT-0600 (Central Standard Time)	0d02565e-5d4a-4a8c-992a-694c8b5ed1c4	ValidationError	User validation failed: password: Path `password` is required.	POST	/users
+Sun Dec 24 2023 17:35:21 GMT-0600 (Central Standard Time)	6fc9cc08-b68a-41a9-bc9b-0568de64f5e7	ValidationError	User validation failed: password: Path `password` is required.	POST	/users
