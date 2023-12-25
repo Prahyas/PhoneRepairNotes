@@ -29,6 +29,7 @@ app.use("/", require("./routes/rootRoutes"));
 
 // handles all the routes
 app.use("/users", require("./routes/userRoutes"));
+app.use("/notes", require("./routes/noteRoutes"));
 
 // handles unknown routes
 app.all("*", (req, res) => {

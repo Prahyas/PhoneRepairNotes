@@ -254,3 +254,13 @@ Mon Dec 25 2023 12:30:31 GMT-0600 (Central Standard Time)	0f2076db-9b3b-45de-b40
 
 Mon Dec 25 2023 12:30:42 GMT-0600 (Central Standard Time)	6ea05357-43f8-4d04-8d83-bac4b275b531	DELETE	/users
 
+Mon Dec 25 2023 13:24:20 GMT-0600 (Central Standard Time)	5cc8fddd-9560-47a7-9816-9837c686f75e	GET	/notes
+
+Mon Dec 25 2023 13:25:49 GMT-0600 (Central Standard Time)	d3787a29-ce2e-4bea-a20b-61434b8380c1	GET	/users
+
+Mon Dec 25 2023 13:26:58 GMT-0600 (Central Standard Time)	b7d8def9-7c63-4113-aca4-ad9e203f8daf	POST	/notes
+
+Mon Dec 25 2023 13:27:05 GMT-0600 (Central Standard Time)	dcb998df-c8c3-4416-9d12-550c03ae5a59	POST	/notes
+
+Mon Dec 25 2023 13:27:17 GMT-0600 (Central Standard Time)	82a7215e-5e62-43cb-a147-8455c5b8e814	POST	/notes
+
