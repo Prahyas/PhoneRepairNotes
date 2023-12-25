@@ -9,3 +9,17 @@ Sun Dec 24 2023 17:28:37 GMT-0600 (Central Standard Time)	5c928fb5-a836-4d8c-beb
 Sun Dec 24 2023 17:31:11 GMT-0600 (Central Standard Time)	99e14760-8719-46e5-933f-32c91bc5ac01	ValidationError	User validation failed: password: Path `password` is required.	POST	/users
 Sun Dec 24 2023 17:31:30 GMT-0600 (Central Standard Time)	0d02565e-5d4a-4a8c-992a-694c8b5ed1c4	ValidationError	User validation failed: password: Path `password` is required.	POST	/users
 Sun Dec 24 2023 17:35:21 GMT-0600 (Central Standard Time)	6fc9cc08-b68a-41a9-bc9b-0568de64f5e7	ValidationError	User validation failed: password: Path `password` is required.	POST	/users
+Mon Dec 25 2023 11:21:27 GMT-0600 (Central Standard Time)	ed06e401-e463-4a4f-be53-625b20353248	SyntaxError	Expected double-quoted property name in JSON at position 65	POST	/users
+Mon Dec 25 2023 11:25:17 GMT-0600 (Central Standard Time)	f637458c-c8c0-4dbb-815b-6a92e6e7777f	SyntaxError	Unexpected non-whitespace character after JSON at position 184	PATCH	/users
+Mon Dec 25 2023 11:25:44 GMT-0600 (Central Standard Time)	08e97644-5386-4f51-bc15-eb522da45f46	SyntaxError	Unexpected non-whitespace character after JSON at position 183	PATCH	/users
+Mon Dec 25 2023 11:32:39 GMT-0600 (Central Standard Time)	d208aef6-ac5e-490e-86dc-8a53d84d59c8	SyntaxError	Unexpected non-whitespace character after JSON at position 183	PATCH	/users
+Mon Dec 25 2023 11:34:03 GMT-0600 (Central Standard Time)	d79bd1e8-dae0-4dc1-939f-0bc5c3f85221	SyntaxError	Expected double-quoted property name in JSON at position 192	PATCH	/users
+Mon Dec 25 2023 11:35:26 GMT-0600 (Central Standard Time)	e93150cb-a87b-4671-a037-de51d2ed8c50	SyntaxError	Expected double-quoted property name in JSON at position 192	PATCH	/users
+Mon Dec 25 2023 11:35:39 GMT-0600 (Central Standard Time)	a5702a5c-8eef-4443-8079-c6501aa92bb4	SyntaxError	Expected double-quoted property name in JSON at position 192	PATCH	/users
+Mon Dec 25 2023 11:36:43 GMT-0600 (Central Standard Time)	1cd7cca0-cbb4-4ca6-8323-4d136c393957	SyntaxError	Expected double-quoted property name in JSON at position 57	PATCH	/users
+Mon Dec 25 2023 11:40:37 GMT-0600 (Central Standard Time)	4110f2ab-0ca7-4489-ae41-d02fe608ab80	SyntaxError	Expected double-quoted property name in JSON at position 57	PATCH	/users
+Mon Dec 25 2023 11:40:40 GMT-0600 (Central Standard Time)	ae779703-86ff-4db4-a275-6f814c1872d5	SyntaxError	Expected double-quoted property name in JSON at position 57	PATCH	/users
+Mon Dec 25 2023 11:42:28 GMT-0600 (Central Standard Time)	3e2c3b5d-e8bb-43d0-a5a9-a7933d783ad2	SyntaxError	Expected double-quoted property name in JSON at position 57	GET	/users
+Mon Dec 25 2023 11:42:33 GMT-0600 (Central Standard Time)	ad94bef9-f9d0-488a-9c21-e4215494f55f	SyntaxError	Expected double-quoted property name in JSON at position 57	GET	/users
+Mon Dec 25 2023 11:44:33 GMT-0600 (Central Standard Time)	1b2763af-2663-4433-b187-d18cfe5eaf0a	SyntaxError	Expected double-quoted property name in JSON at position 186	PATCH	/users
+Mon Dec 25 2023 12:30:05 GMT-0600 (Central Standard Time)	f2a28a02-f19c-41ab-ad93-f4d9dbab4be9	ReferenceError	username is not defined	DELETE	/users

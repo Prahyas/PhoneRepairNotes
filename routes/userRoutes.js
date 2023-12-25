@@ -8,8 +8,11 @@ const {
 } = require("../controllers/userController");
 
 //handles CRUD operations for user data
-router.route("/").get(getAllUsers).post(createNewUser);
-// .patch(updateUser)
-// .delete(deleteUser);
+router
+  .route("/")
+  .get(getAllUsers)
+  .post(createNewUser)
+  .patch(updateUser)
+  .delete(deleteUser);
 
 module.exports = router;

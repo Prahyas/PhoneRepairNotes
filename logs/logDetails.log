@@ -130,3 +130,127 @@ Sun Dec 24 2023 17:40:46 GMT-0600 (Central Standard Time)	67965881-70a9-4a99-bbb
 
 Sun Dec 24 2023 17:40:52 GMT-0600 (Central Standard Time)	6d7defa5-1845-4891-b6e7-eec198fa1242	GET	/users
 
+Mon Dec 25 2023 10:28:29 GMT-0600 (Central Standard Time)	5f5ff910-f686-45ff-b899-2fed224e5b2b	GET	/
+
+Mon Dec 25 2023 10:28:29 GMT-0600 (Central Standard Time)	d1f14692-4e31-43ef-9d72-cc3148b8550f	GET	/index.css
+
+Mon Dec 25 2023 10:28:29 GMT-0600 (Central Standard Time)	524855bf-89a3-45c3-83dc-dbf5b350cea8	GET	/favicon.ico
+
+Mon Dec 25 2023 10:50:59 GMT-0600 (Central Standard Time)	4780d8e4-2119-4dc0-9e25-128c29793426	GET	/users
+
+Mon Dec 25 2023 10:52:13 GMT-0600 (Central Standard Time)	14831006-82df-4762-b6ac-d72604c56391	POST	/users/6588c17eadd2c79b2591d450
+
+Mon Dec 25 2023 10:52:20 GMT-0600 (Central Standard Time)	837c6bc8-b74a-4f88-aced-930b5fd7bedc	POST	/users/6588c17eadd2c79b2591d450
+
+Mon Dec 25 2023 11:05:03 GMT-0600 (Central Standard Time)	d0d7d2de-741c-4158-b507-3cdfbb527a28	PATCH	/users/6588c17eadd2c79b2591d450
+
+Mon Dec 25 2023 11:06:01 GMT-0600 (Central Standard Time)	916b6127-05ad-41ac-ace3-ab294efc10d9	PATCH	/users/6588c17eadd2c79b2591d450
+
+Mon Dec 25 2023 11:14:03 GMT-0600 (Central Standard Time)	295278c5-54a3-4361-be2b-3b2a117aa2f1	PATCH	/users/6588c17eadd2c79b2591d450
+
+Mon Dec 25 2023 11:14:37 GMT-0600 (Central Standard Time)	63f00c42-be97-4a6d-97eb-ca0e9213d77d	PATCH	/users/6588c17eadd2c79b2591d450
+
+Mon Dec 25 2023 11:15:01 GMT-0600 (Central Standard Time)	908ee4cf-71bd-4128-8421-586503060126	PATCH	/users/6588c17eadd2c79b2591d450
+
+Mon Dec 25 2023 11:15:38 GMT-0600 (Central Standard Time)	9daf8ef2-7d29-4cb0-9cc0-e3fce9906e1a	PATCH	/users/6588c17eadd2c79b2591d450
+
+Mon Dec 25 2023 11:17:15 GMT-0600 (Central Standard Time)	98b5d7a8-75d5-4702-8f16-d4ff553d3448	POST	/users/6588c17eadd2c79b2591d450
+
+Mon Dec 25 2023 11:17:32 GMT-0600 (Central Standard Time)	06687fd5-ff7a-4cc3-8c7a-a7855642e5e8	POST	/users
+
+Mon Dec 25 2023 11:17:41 GMT-0600 (Central Standard Time)	9c0d416f-9793-442b-8958-deafc4ad6fc7	GET	/users
+
+Mon Dec 25 2023 11:19:10 GMT-0600 (Central Standard Time)	d20fb09a-f9b7-4e9b-9558-aca7b94b7202	POST	/users
+
+Mon Dec 25 2023 11:21:27 GMT-0600 (Central Standard Time)	39cf1bdd-01dc-4a9a-8238-550a74a931c0	POST	/users
+
+Mon Dec 25 2023 11:24:21 GMT-0600 (Central Standard Time)	e2939190-213f-4cd8-ab76-460a9fd663bb	GET	/users
+
+Mon Dec 25 2023 11:25:17 GMT-0600 (Central Standard Time)	035a04fe-e954-476a-a90f-658da1b336ff	PATCH	/users
+
+Mon Dec 25 2023 11:25:44 GMT-0600 (Central Standard Time)	3118fa47-484f-4e66-833a-d51ead76c6ca	PATCH	/users
+
+Mon Dec 25 2023 11:32:39 GMT-0600 (Central Standard Time)	5e03b0b9-7af5-40ed-9e0b-970c42fc10a8	PATCH	/users
+
+Mon Dec 25 2023 11:32:57 GMT-0600 (Central Standard Time)	1c04d9b0-4943-466e-987c-149f1501489d	PATCH	/users
+
+Mon Dec 25 2023 11:33:24 GMT-0600 (Central Standard Time)	fb306516-291b-4b38-8b39-6b1b50a7b847	PATCH	/users
+
+Mon Dec 25 2023 11:34:03 GMT-0600 (Central Standard Time)	ef0704f8-7969-4766-8c1e-c459dba3fe7d	PATCH	/users
+
+Mon Dec 25 2023 11:35:26 GMT-0600 (Central Standard Time)	49d4c1c5-7e7d-44ca-ab4f-1363ae676a7d	PATCH	/users
+
+Mon Dec 25 2023 11:35:39 GMT-0600 (Central Standard Time)	ccb958e1-6cb4-4f75-8d7e-5f4baf60a9a6	PATCH	/users
+
+Mon Dec 25 2023 11:36:32 GMT-0600 (Central Standard Time)	324e589c-2b11-41e9-a169-3730980807fa	PATCH	/users
+
+Mon Dec 25 2023 11:36:43 GMT-0600 (Central Standard Time)	0bdf582b-7382-4214-94e5-38f4d5ecc5c5	PATCH	/users
+
+Mon Dec 25 2023 11:40:37 GMT-0600 (Central Standard Time)	4f2f3723-2c5f-4a42-a63b-4a65ec27548e	PATCH	/users
+
+Mon Dec 25 2023 11:40:40 GMT-0600 (Central Standard Time)	af48179c-4069-4648-8a32-0a2c1079be0c	PATCH	/users
+
+Mon Dec 25 2023 11:42:28 GMT-0600 (Central Standard Time)	d828a514-5ba9-4630-920d-916a236bd50d	GET	/users
+
+Mon Dec 25 2023 11:42:33 GMT-0600 (Central Standard Time)	738971e8-43f6-4cf4-9f7c-14970bb9c975	GET	/users
+
+Mon Dec 25 2023 11:42:40 GMT-0600 (Central Standard Time)	d993e553-ab31-43d5-97b7-7bf78e76c431	GET	/users
+
+Mon Dec 25 2023 11:43:18 GMT-0600 (Central Standard Time)	7e292f53-862b-4105-93fb-84e67c7c36ec	PATCH	/users
+
+Mon Dec 25 2023 11:43:22 GMT-0600 (Central Standard Time)	e26fdc98-2251-416f-a3cf-09377cfe562e	GET	/users
+
+Mon Dec 25 2023 11:44:33 GMT-0600 (Central Standard Time)	de418651-4207-4d02-99bd-eccf3c03c524	PATCH	/users
+
+Mon Dec 25 2023 11:44:45 GMT-0600 (Central Standard Time)	20dcca8f-bee9-4564-9869-d00c6dbcfe05	PATCH	/users
+
+Mon Dec 25 2023 11:44:59 GMT-0600 (Central Standard Time)	e8d9ab19-5e13-4929-bc0b-e4ace1a3da82	GET	/users
+
+Mon Dec 25 2023 11:45:03 GMT-0600 (Central Standard Time)	c1feb803-bc4a-4b65-974f-160a0d1b19b2	GET	/userss
+
+Mon Dec 25 2023 11:45:08 GMT-0600 (Central Standard Time)	f7d1bc4f-b7b2-48aa-8da2-dd31d1775a17	GET	/users
+
+Mon Dec 25 2023 11:47:11 GMT-0600 (Central Standard Time)	9d7f25b5-9235-4f25-86e9-e8af7f0db8da	GET	/users
+
+Mon Dec 25 2023 11:47:32 GMT-0600 (Central Standard Time)	0707ce85-433a-472c-a4bb-5f6f3df0d6cc	PATCH	/users
+
+Mon Dec 25 2023 11:49:49 GMT-0600 (Central Standard Time)	10201185-e161-4b3d-ad68-80010450d353	PATCH	/users
+
+Mon Dec 25 2023 11:49:59 GMT-0600 (Central Standard Time)	4e3f87f6-5f12-4963-be61-3fac397d813a	PATCH	/users
+
+Mon Dec 25 2023 12:00:31 GMT-0600 (Central Standard Time)	ae3bdb60-898b-440f-87a4-a712f8e14719	GET	/users
+
+Mon Dec 25 2023 12:01:11 GMT-0600 (Central Standard Time)	ca9a4182-27e7-4905-a231-39d36fa4bdf9	DELETE	/users
+
+Mon Dec 25 2023 12:02:28 GMT-0600 (Central Standard Time)	757223b9-a6e5-4d3d-bb0e-f1521b783bd2	GET	/users
+
+Mon Dec 25 2023 12:26:44 GMT-0600 (Central Standard Time)	c3627386-0269-401a-a247-3ac8eb8d963c	GET	/users
+
+Mon Dec 25 2023 12:26:57 GMT-0600 (Central Standard Time)	df1b9f9c-d0e9-4bc1-9d2d-414caee5aa48	DELETE	/users
+
+Mon Dec 25 2023 12:27:23 GMT-0600 (Central Standard Time)	d88ee74a-7e0f-4c66-94a1-bd02222fb09e	GET	/users
+
+Mon Dec 25 2023 12:28:20 GMT-0600 (Central Standard Time)	90982684-9baf-478d-ac41-116da612dc3a	POST	/users
+
+Mon Dec 25 2023 12:28:31 GMT-0600 (Central Standard Time)	9810f064-7ffd-482f-86d5-77d58f00942d	POST	/users
+
+Mon Dec 25 2023 12:28:35 GMT-0600 (Central Standard Time)	b6396da5-63cd-4bb2-ae96-f1b3e03c5ccf	POST	/users
+
+Mon Dec 25 2023 12:28:39 GMT-0600 (Central Standard Time)	183dc5d2-e663-4342-9aad-dab739cfd522	POST	/users
+
+Mon Dec 25 2023 12:28:42 GMT-0600 (Central Standard Time)	935c87d6-e198-47b1-bebc-b0764e927454	POST	/users
+
+Mon Dec 25 2023 12:28:45 GMT-0600 (Central Standard Time)	54081ddd-cb0e-4bea-820b-b80b28161935	GET	/users
+
+Mon Dec 25 2023 12:29:06 GMT-0600 (Central Standard Time)	1926c9d3-0c9a-4b1d-b287-5b7ffbc1b278	DELETE	/users
+
+Mon Dec 25 2023 12:29:49 GMT-0600 (Central Standard Time)	6a2a5b2b-9fd3-4620-b0a9-70bec730f734	GET	/users
+
+Mon Dec 25 2023 12:30:01 GMT-0600 (Central Standard Time)	c426e7e6-ec9c-4ecf-b5bf-db6275c1ecdd	GET	/users
+
+Mon Dec 25 2023 12:30:05 GMT-0600 (Central Standard Time)	48c59b04-a856-48d4-ad7c-f98a9890b5a9	DELETE	/users
+
+Mon Dec 25 2023 12:30:31 GMT-0600 (Central Standard Time)	0f2076db-9b3b-45de-b406-0bec013afc7d	GET	/users
+
+Mon Dec 25 2023 12:30:42 GMT-0600 (Central Standard Time)	6ea05357-43f8-4d04-8d83-bac4b275b531	DELETE	/users
+
