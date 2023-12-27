@@ -19,7 +19,7 @@ const noteSchema = mongoose.Schema(
     },
     completed: {
       type: Boolean,
-      default: false,
+      default: true,
     },
   },
   { timestamps: true }
