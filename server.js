@@ -56,5 +56,5 @@ mongoose.connection.once("open", () => {
 // logs any error when database fails to connect
 mongoose.connection.on("error", (error) => {
   console.log(error);
-  logEvents(`Codse no:${error.code}\t ${error.codeName}`, "dbErrorDetails.log");
+  logEvents(`Code no:${error.code}\t ${error.codeName}`, "dbErrorDetails.log");
 });
